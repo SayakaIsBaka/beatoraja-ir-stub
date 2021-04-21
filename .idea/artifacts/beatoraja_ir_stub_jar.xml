@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="beatoraja-ir-stub:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/beatoraja_ir_stub_jar</output-path>
+    <root id="archive" name="beatoraja-ir-stub.jar">
+      <element id="module-output" name="beatoraja-ir-stub" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.5.13" />
+      <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4.13" />
+    </root>
+  </artifact>
+</component>
